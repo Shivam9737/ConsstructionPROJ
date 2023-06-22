@@ -1,0 +1,91 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Hero Section */
+  .hero {
+    background-color: #f5f5f5;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  /* Services Section */
+  .services {
+    padding: 50px 0;
+  }
+  
+  .service {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Projects Section */
+  .projects {
+    background-color: #f5f5f5;
+    padding: 50px 0;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  .project-img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+  }
+  
+  /* Testimonials Section */
+  .testimonials {
+    padding: 50px 0;
+  }
+  
+  .testimonial {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Team Members Section */
+  .team {
+    background-color: #f5f5f5;
+    padding: 50px 0;
+  }
+  
+  .team-member {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Contact Section */
+  .contact {
+    padding: 50px 0;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
